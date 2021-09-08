@@ -29,6 +29,14 @@ u/dtmfadvice
 
 [September 7, 10 states reported 78 large fires]() including Idaho, which had 20 fires and Montana with 17 fires. In Oregon the [Bootleg Fire burned 413,7617 acres](https://inciweb.nwcg.gov/incident/7609/) before being contained. In California the [Dixie fire burned 917,579 acres](https://www.msn.com/en-us/weather/topstories/dixie-fire-burns-more-than-917k-acres-59-containment/ar-AAO9SME) and was 59 percent contained on September 7. The Dixie fire is the second largest fire on record in California, according to Calfire, and is second only to the August Complex fire of August 2020 which burned over a million acres. The Dixie fire has destroyed 1,282 structures over five counties and damaged 92 structures. The Caldor fire has burned about 217,000 acres and is 49 percent contained after destroying 994 structures and damaged 77.The Beckwourth complex fire which includes the Sugar Fire and Dotta Fire in Plumas County burned 105,670 acres. All fires in California have burned about 2 million acres so far in 2021. In Arizona the Telegraph fire destroyed 180,757 acres in Pinal County, according to Arizona Interagency Wildfire Prevention. The Mezcal fire burned 72,250 acres and the Rafael fire burned 78,065 acres.
 
+September 7
+
+- 17 covid patients die after hospital in Mexico floods amid torrential rain.
+
+- [2,000 homes damage](https://www.yahoo.com/entertainment/mexican-hospital-evacuated-flooding-causes-212132359.html)
+
+
+
 Recent Projections
 
 [Who projections from 2018](https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health)
