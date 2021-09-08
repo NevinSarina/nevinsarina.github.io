@@ -1,8 +1,32 @@
-Recent Climate Change Incidents 2020
+Recent Climate Change Incidents 2021
 
-Answer: Climate change has made extreme weather events more likely, and when they happen, stronger.
+Germany Floods
 
-Another factor flooding is exacerbated by increases in paved surfaces, because water can't be absorbed by open soil. Many cities in China have grown rapidly and have never seen this kind of rainfall, and don't have any flood control infrastructure underground. So when these climate fueled floods happened, they were even more destructive. Water rapidly filled subway and road tunnels and many people were killed in flooded subways. [NYT coverage here.](https://www.nytimes.com/2021/07/26/world/asia/china-climate-change.html?action=click&module=Top%20Stories&pgtype=Homepage). There is also quite a bit of significant flooding in a more-destructive-than-usual [Indian monsoon season.](https://www.nytimes.com/2021/07/26/world/asia/india-landslides-floods.html?action=click&module=Top%20Stories&pgtype=Homepage)
+New York Floods
+
+Hurricane Ida
+
+New Jersey
+
+New York
+
+Louisiana
+
+There is also quite a bit of significant flooding in a more-destructive-than-usual [Indian monsoon season.](https://www.nytimes.com/2021/07/26/world/asia/india-landslides-floods.html?action=click&module=Top%20Stories&pgtype=Homepage)
+
+China Floods - July - Aug 2
+
+https://www.nytimes.com/video/world/asia/100000007900609/china-flooding-death.html
+
+- 302 dead (Reported Augist 2 2021)
+
+August 13 Flood
+
+- 21 dead
+
+- 2700 Homes Flooded
+
+- 221 buildings collapsed
 
 Meanwhile, substantial portions of the [western US and Canada, and also Siberia, are seeing record high temps and wildfires](https://www.themoscowtimes.com/2021/01/27/peat-fires-smolder-in-siberia-despite-bone-chilling-temperatures-a72747). Siberian wildfires are especially concerning because of the peat bogs, which can burn for years, are very hard to put out, and have truly enormous amounts of CO2 absorbed in them which will be released into the atmosphere if they burn.
 
@@ -10,7 +34,7 @@ The [fires in Canada have been large enough to generate their own weather,](http
 
 u/dtmfadvice
 
-[Texas Freezea Feb 11 - March 5](https://nyti.ms/3BRDjUW)
+[Texas Freeze Feb 11 - March 5](https://nyti.ms/3BRDjUW)
 
 - 210 deaths
 
