@@ -57,7 +57,7 @@ September 7
 
 - 17 covid patients die after hospital in Mexico floods amid torrential rain.
 
-- [2,000 homes damage](https://www.yahoo.com/entertainment/mexican-hospital-evacuated-flooding-causes-212132359.html)
+- [2,000 homes damaged](https://www.yahoo.com/entertainment/mexican-hospital-evacuated-flooding-causes-212132359.html)
 
 
 
@@ -91,10 +91,10 @@ Under this scenario, all regions will experience high levels of climate security
 
 The current 2050 projections in summary --> 
 
-At (2-4+°C/3.6-7.2+°F) of global average warming
+**At (2-4+°C/3.6-7.2+°F)** of global average warming
 
->the world is very likely to experience significant insecurity and destabilization at the local, national, regional, and international levels.
+>The world is very likely to experience significant insecurity and destabilization at the local, national, regional, and international levels.
 
->All regions will be exposed to potentially catastrophic levels of climate security threats, the 
+**All regions will be exposed to potentially catastrophic levels of climate security threats, the 
 consequences of which could lead to a breakdown of security and civilian infrastructure, economic and 
-resource stability, and political institutions at a large scale.
+resource stability, and political institutions at a large scale.**
