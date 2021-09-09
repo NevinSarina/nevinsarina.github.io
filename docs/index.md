@@ -1,40 +1,63 @@
 Recent Climate Change Incidents 2021
 
-Germany Floods
+- Germany Floods (July 14 - 15)
 
-New York Floods
+  - [180 - 220 people killed](https://www.cnn.com/2021/08/23/europe/germany-floods-belgium-climate-change-intl/index.html) (Reported Aug 24)
 
+  - [$8.3 billion in damages](https://news.yahoo.com/merkel-germany-spend-whats-needed-140108480.html) (Reported Sept 3)
+
+- Belgium Floods
+
+  -
+  
+  
+  
 Hurricane Ida
 
-New Jersey
+- New Jersey
 
-New York
+  - 
 
-Louisiana
+- New York
+
+  - [17 deaths](https://news.yahoo.com/hurricane-ida-death-toll-rises-050535419.html) (Sept 5)
+
+  - Over $50 million in damage
+
+
+- Louisiana
+
+  - [82 killed](https://www.cbsnews.com/news/hurricane-ida-death-toll-update/) (Reported Sept 8)
+
+  - [1 million homes without power](https://www.usatoday.com/story/news/nation/2021/09/05/hurricane-ida-louisiana-residents-without-power-families-homeless/5740682001/) (Reported Sept 8)
+
+  - 5,260 transformers failed (building estimates unavailable)
 
 There is also quite a bit of significant flooding in a more-destructive-than-usual [Indian monsoon season.](https://www.nytimes.com/2021/07/26/world/asia/india-landslides-floods.html?action=click&module=Top%20Stories&pgtype=Homepage)
 
-China Floods - July - Aug 2
+China Floods
 
-https://www.nytimes.com/video/world/asia/100000007900609/china-flooding-death.html
+  - Aug 13
+  
+    - [21 killed](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html?searchResultPosition=1)
+  - 
 
-- 302 dead (Reported Augist 2 2021)
+    -[]()
+
+  - 302 dead (Reported Augist 3 2021)](https://www.msn.com/en-us/news/world/death-toll-in-china-e2-80-99s-henan-floods-triples-to-302-dozens-missing/ar-AAMRJQU)
 
 August 13 Flood
 
-- 21 dead
+  - [21 killed](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html?searchResultPosition=1)
 
-- 2700 Homes Flooded
+  - 2700 Homes and stores Flooded
 
-- 221 buildings collapsed
+  - 221 buildings collapsed
 
 Meanwhile, substantial portions of the [western US and Canada, and also Siberia, are seeing record high temps and wildfires](https://www.themoscowtimes.com/2021/01/27/peat-fires-smolder-in-siberia-despite-bone-chilling-temperatures-a72747). Siberian wildfires are especially concerning because of the peat bogs, which can burn for years, are very hard to put out, and have truly enormous amounts of CO2 absorbed in them which will be released into the atmosphere if they burn.
 
-The [fires in Canada have been large enough to generate their own weather,](https://www.theguardian.com/world/2021/jul/23/us-wildfires-weather-systems-fire-tornado-haze-clouds) including lightning, which then sparks and expands the fires. This Guardian article has some info on firestorms.
 
-u/dtmfadvice
-
-[Texas Freeze Feb 11 - March 5](https://nyti.ms/3BRDjUW)
+[Texas Freeze (Feb 11 - March 5)](https://nyti.ms/3BRDjUW)
 
 - 210 deaths
 
