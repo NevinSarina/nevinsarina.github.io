@@ -3,8 +3,9 @@ Site with login
 JTW (site) 0auth (social media, gmail) are common
 <html>
 <head>
+  <meta> charset="utf-8">
   <title>Page Draft</title>
-
+ </head>
 <body>
   
   
