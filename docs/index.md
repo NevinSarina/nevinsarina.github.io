@@ -9,10 +9,14 @@ JTW (site) 0auth (social media, gmail) are common
 <body>
   <h1 style="color: purple; font-size: 18px;">My Webpage!</h1>
   
-  <-- <strong> bold effect, and this is a comment. -->
+  <!-- <strong> bold effect, and this is a comment. -->
   
   
-  <p style="color: grey; font-size: 21 px; font-family: sans-serif;"><a href="http://www.google.com">Class aptent</p>
+  <p style="color: grey; font-size: 21 px; font-family: sans-serif;"><a href="http://www.google.com">Class aptent</a>
+  The paragraph is here.
+  
+  
+  </p>
   
   <h1>Heading 1</h1>
   <h2>Heading 2</h2>
