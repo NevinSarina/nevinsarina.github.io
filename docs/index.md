@@ -3,13 +3,16 @@ Site with login
 JTW (site) 0auth (social media, gmail) are common
 <html>
 <head>
-  <meta> charset="utf-8">
+  <meta charset="utf-8">
   <title>Page Draft</title>
  </head>
 <body>
+  <h1 style="color: purple; font-size: 18px;">My Webpage!</h1>
+  
+  <-- <strong> bold effect, and this is a comment. -->
   
   
-  <p>Paragraph</p>
+  <p style="color: grey; font-size: 21 px; font-family: sans-serif;"><a href="http://www.google.com">Class aptent</p>
   
   <h1>Heading 1</h1>
   <h2>Heading 2</h2>
