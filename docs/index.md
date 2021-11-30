@@ -17,7 +17,7 @@ JTW (site) 0auth (social media, gmail) are common
   <h5>Heading 5</h5>
   <h6>Heading 6</h6>
   
-  <p>Heading 1</p>
+  <p>Paragraph 1</p>
 
 </body>
 </html>
