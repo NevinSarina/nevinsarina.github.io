@@ -16,7 +16,7 @@ Temp Title
   <p style="color: grey; font-size: 21 px; font-family: sans-serif;"><a href="http://www.google.com">Class aptent</a>
   The paragraph is here.
     
-    <a href="pagetwo.html">Page two</a> In depth look at quantum theory.  Quantum: 
+   <a href="pagetwo.html">Page two</a> In depth look at quantum theory.  Quantum</a>
   
   
   </p>
