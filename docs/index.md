@@ -4,7 +4,7 @@ JTW (site) 0auth (social media, gmail) are common
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Page Draft</title>
+Page Draft
  </head>
 <body style="background-color: #000; color: #FFF; font-size: 21px; font-family: sans-serif">
   <h1 style="color: purple; font-size: 18px;">My Webpage!</h1>
@@ -14,6 +14,8 @@ JTW (site) 0auth (social media, gmail) are common
   
   <p style="color: grey; font-size: 21 px; font-family: sans-serif;"><a href="http://www.google.com">Class aptent</a>
   The paragraph is here.
+    
+    <a href="pagetwo.html">Page two</a> In depth look at quantum theory.  Quantum: 
   
   
   </p>
