@@ -3,7 +3,7 @@ Site with login
 JTW (site) 0auth (social media, gmail) are common
 <html>
 <head>
-  <meta charset="utf-8">
+<meta charset='utf-8'>
 Page Draft
  </head>
 <body style="background-color: #000; color: #FFF; font-size: 21px; font-family: sans-serif">
