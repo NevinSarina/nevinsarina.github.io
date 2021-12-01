@@ -4,10 +4,11 @@ JTW (site) 0auth (social media, gmail) are common
 <html>
 <head>
 <meta charset='utf-8'>
-The Sun Also Rises vol. 4
+Temp Title
  </head>
 <body style="background-color: #000; color: white; font-size: 21px; font-family: sans-serif">
-  <h1 style="color: purple; font-size: 18px;">My Webpage!</h1>
+  <h1 style="color: purple; font-size: 18px;">The Sun Also Rises vol. 4
+</h1>
   
   <!-- <strong> bold effect, and this is a comment. -->
   
